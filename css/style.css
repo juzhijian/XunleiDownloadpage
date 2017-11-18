@@ -279,7 +279,7 @@ img {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(img/page1_bg.jpg) center center no-repeat;
+	background: url(../img/page1_bg.jpg) center center no-repeat;
 	transform-origin: center 708px;
 	-webkit-transform-origin: center 708px
 }
@@ -310,7 +310,7 @@ img {
 	width: 476px;
 	height: 72px;
 	margin-bottom: -18px;
-	background: url(img/light_2.png)
+	background: url(../img/light_2.png)
 }
 
 .page_4 .light_2,
@@ -319,7 +319,7 @@ img {
 	position: absolute;
 	width: 476px;
 	height: 72px;
-	background: url(img/light_1.png);
+	background: url(../img/light_1.png);
 	transform: scale(.8);
 	-webkit-transform: scale(.8)
 }
@@ -347,7 +347,7 @@ img {
 	bottom: 50%;
 	margin-bottom: -523px;
 	left: -923px;
-	background: url(img/light_3.png);
+	background: url(../img/light_3.png);
 	transform: scale(.8);
 	-webkit-transform: scale(.8)
 }
@@ -358,7 +358,7 @@ img {
 	height: 401px;
 	top: 0;
 	left: 0;
-	background: url(img/light_4.png)
+	background: url(../img/light_4.png)
 }
 
 .star_wp {
@@ -380,7 +380,7 @@ img {
 	width: 2400px;
 	height: 2000px;
 	margin: -1000px 0 0 -1200px;
-	background: url(img/page3_bg.jpg) center center no-repeat;
+	background: url(../img/page3_bg.jpg) center center no-repeat;
 	transform-origin: center center;
 	-webkit-transform-origin: center center
 }
@@ -392,7 +392,7 @@ img {
 	width: 1740px;
 	height: 1356px;
 	margin: -678px 0 0 -870px;
-	background: url(img/star.png) center center no-repeat;
+	background: url(../img/star.png) center center no-repeat;
 	transform-origin: center center;
 	-webkit-transform-origin: center center
 }
@@ -419,7 +419,7 @@ img {
 
 .btn_control a {
 	display: block;
-	background: url(img/btn_spr.png) -14px -52px no-repeat;
+	background: url(../img/btn_spr.png) -14px -52px no-repeat;
 	width: 9px;
 	height: 9px;
 	margin: 0 0 12px
